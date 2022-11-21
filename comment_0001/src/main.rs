@@ -49,6 +49,7 @@ fn main() {
      *  cargo run --quiet
      *  cargo run --bin comment_0001
      *  cargo run --bin comment_0001 --quiet
+     *  cargo run --release
      *  cargo doc --open
      *  cargo test
      */
