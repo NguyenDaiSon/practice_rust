@@ -1,0 +1,6 @@
+cargo add anyhow
+
+cargo add clap --features derive
+
+cargo run --quiet -- --pattern=arg --filename=src/main.rs
+
