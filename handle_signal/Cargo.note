@@ -1,0 +1,7 @@
+cargo add anyhow
+cargo add ctrlc
+cargo add crossbeam_channel
+cargo fmt
+cargo clippy
+cargo run --quiet
+
